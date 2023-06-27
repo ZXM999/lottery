@@ -1,2 +1,10 @@
-# lottery
-用户登录抽奖
+# luckwheel
+国产开源幸运大转盘管理系统，积分，倍率，奖品兑换
+
+
+#项目运行
+该项目为springboot项目，直接运行主类就行，数据库配置文件，在application.properties下，自主修改就可以了。
+登录地址：localhost:7777/luck/login
+后台管理访问地址：localhost:7777/luck/manager
+
+ 
