@@ -6,15 +6,16 @@
 	background-size: cover;
 }
 .loginForm{
-	/*margin-left: 35%;*/
+	/*margin-left: 50%;*/
 	/*margin-top: 10%;*/
 	/*background-color: #cccccc;*/
 	background-color: #e7e7e7;
 	width: 400px;
 	height: 400px;
-	float: left;
+	/*float: left;*/
+	margin:0 auto;
 	z-index: 9999;
-	position: fixed;
+	/*position: fixed;*/
 	opacity: 0.75;
 }
 .usernameDiv{
